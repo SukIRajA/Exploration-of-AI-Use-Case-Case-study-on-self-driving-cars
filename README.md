@@ -2,9 +2,7 @@
 # AIM
 To study the application of Artificial Intelligence (AI) in self-driving cars and understand how AI technologies help vehicles perceive their surroundings, make decisions, and navigate safely without continuous human control.
 # THEORY
-
 A self-driving car is an autonomous vehicle that uses AI, sensors, cameras, and computer systems to observe its environment and perform driving tasks. AI enables the vehicle to identify objects, understand road conditions, predict the movement of other vehicles and pedestrians, and select suitable driving actions.
-
 # WORKING PRINCIPLE
 The basic working process is:
 Sensors & Cameras → Perception → Object Detection → Decision Making → Path Planning → Vehicle Control
@@ -15,16 +13,15 @@ Sensors & Cameras → Perception → Object Detection → Decision Making → Pa
 5.	Decision Making – Determines actions such as stopping, turning, accelerating, or changing lanes. 
 6.	Path Planning – Selects a safe route and driving path. 
 7.	Control – Controls steering, braking, and acceleration. 
-8.	Continuous Monitoring – Continuously observes the environment and updates decisions.
+8.	Continuous Monitoring – Continuously observes the environment and updates decisions. 
 
-   
 # SAMPLE IMAGE – SELF-DRIVING CAR
-<img width="849" height="345" alt="image" src="https://github.com/user-attachments/assets/60928429-b795-443b-a52c-0d55c670b22b" />
+<img width="849" height="345" alt="image" src="https://github.com/user-attachments/assets/1d9c834c-62b0-4633-8c8c-8e0788c6e48a" />
 
-<img width="864" height="486" alt="image" src="https://github.com/user-attachments/assets/0809bd2c-b1f8-4246-96d8-f2ddb7784979" />
- 
- 
- 
+<img width="864" height="486" alt="image" src="https://github.com/user-attachments/assets/b9a47c31-85e5-47c2-b67b-6d12af37acb7" />
+
+<img width="844" height="844" alt="image" src="https://github.com/user-attachments/assets/4a8aa671-09fa-404e-9f2c-96a1315c4417" />
+
 # AI TECHNOLOGIES USED
 •	Machine Learning (ML) – Learns driving patterns from large amounts of data. 
 •	Deep Learning (DL) – Recognizes objects, roads, traffic signs, and pedestrians. 
@@ -33,6 +30,7 @@ Sensors & Cameras → Perception → Object Detection → Decision Making → Pa
 •	Sensor Fusion – Combines information from cameras, LiDAR, radar, and other sensors. 
 •	Reinforcement Learning – Helps improve decision-making through learning from actions and outcomes. 
 •	Path Planning Algorithms – Determines safe and efficient driving paths. 
+
 # CHARACTERISTICS
 1.	Autonomous Driving :Performs driving tasks with minimal human intervention. 
 2.	Object Detection : Detects vehicles, pedestrians, cyclists, and obstacles. 
@@ -44,6 +42,7 @@ Sensors & Cameras → Perception → Object Detection → Decision Making → Pa
 8.	Real-Time Decision Making:Makes driving decisions based on current conditions. 
 9.	Navigation :Uses GPS and digital maps to reach the destination. 
 10.	Driver Assistance : Provides features such as adaptive cruise control and lane keeping. 
+
 # RELATED AI TOOLS / TECHNOLOGIES
 1.	Machine Learning (ML) :Learns driving patterns from collected data. 
 2.	Deep Learning (DL) :Helps recognize objects, roads, vehicles, and pedestrians. 
@@ -53,8 +52,7 @@ Sensors & Cameras → Perception → Object Detection → Decision Making → Pa
 6.	Reinforcement Learning : Helps the vehicle learn and improve driving decisions. 
 7.	Path Planning : Determines a safe and efficient route for the vehicle. 
 8.	Predictive Models :Predicts the movement of nearby vehicles, pedestrians, and cyclists. 
-# RESULT
+
+# CONCLUSION
 Self-driving cars are an important real-world application of AI. They combine machine learning, deep learning, computer vision, sensor fusion, and path planning to perceive the environment and make driving decisions. AI-based autonomous vehicles can improve transportation safety, efficiency, and convenience, although challenges such as safety, reliability, cost, cybersecurity, and ethical decision-making remain.
-
-
 
